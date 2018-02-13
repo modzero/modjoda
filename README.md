@@ -4,7 +4,7 @@
 
 This project includes Android apps that are intended as a tool to test and create Proof of Concept (PoC) exploits for Java deserialization vulnerabilities in Android. It is based on [ysoserial](https://github.com/frohoff/ysoserial) by frohoff, but targeting the Android platform.
 
-This project was developed by Jan Girlich (@vollkorn) from modzero AG (@mod0).
+This project was developed by Jan Girlich (@vollkorn1982) of modzero (@mod0).
 
 ## Background
 
