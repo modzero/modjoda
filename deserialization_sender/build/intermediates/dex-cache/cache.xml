@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fa3284ec864bc2143c3204b8d1658f80/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f2defb8b7e188dc4bf63df133d4f2563/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6b1f9e90c90a0e3f67da14cd26c08dc4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/64afa0e808d40e32b4224951f8e5ec43/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5907897d77cdf4c49d589b80eea45faf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/06cc1361efb8c9f6e0eb6320de231cc3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/0096eae4e8a3c2aa78578074052229cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e126729f90547bb7d1ad7d5c4e41fd88/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24247f3bb052ee068971393bdb83e04512bb1c3c">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4859533b23003f6dc38ccc10d3b4f0f7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3f44e5f8c2ad3b9fa9a6a2ff32b43fe9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/db2e469c4c6864de55f93429499bfe22/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4e304748f480190cd1ab90466938be24/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0-alpha7.aar/d378d1face8928013b9cab2da9214560/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/work/.gradle/caches/modules-2/files-2.1/xalan/xalan/2.7.2/d55d3f02a56ec4c25695fe67e1334ff8c2ecea23/xalan-2.7.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d55d3f02a56ec4c25695fe67e1334ff8c2ecea23">
+        <dex dex="/home/work/Dokumente/Tools/mod0-pentest-tools/Android/java_object_deserialization_poc/deserialization_sender/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+
+</items>
