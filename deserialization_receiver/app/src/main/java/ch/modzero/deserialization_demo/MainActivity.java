@@ -29,14 +29,6 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
-        try {
-            FileOutputStream outputStream = openFileOutput("secret.txt", Context.MODE_PRIVATE);
-            outputStream.write("5ecret!\n".getBytes());
-            outputStream.close();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 
     @Override

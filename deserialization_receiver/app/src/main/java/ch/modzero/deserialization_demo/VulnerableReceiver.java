@@ -23,11 +23,6 @@ public class VulnerableReceiver extends BroadcastReceiver {
                 if (extra.equals("decoy")) {
                     Log.d(app_name, "sucessfully deserialized " + intent.getStringExtra(extra));
                 }
-//                if (extra.equals("Encryption")) {
-//                    HashSet<?> deserialized = (HashSet<Object>)intent.getSerializableExtra(extra);
-//                    Log.d(app_name, deserialized.getClass().getName());
-//                    Log.d(app_name, "sucessfully deserialized exploit");
-//                }
             }
         }
     }
