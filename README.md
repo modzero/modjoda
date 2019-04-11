@@ -55,6 +55,14 @@ If an app accesses any intent's extra data and includes the vulnerable java libr
 | ---- | ----------------------- |
 | CommonsCollection6 | commons-collections:3.1 |
 
+Tried out CommonsCollections4 and CommonsCollections2 exploit with commons-collections4:4.0 which is vulnerable to Java deserialization exploits on Android for couple of weeks.
+
+1. One can create Dex Bytecode using Android Studio > Analyze APK > Choose Dex file > Choose corresponding class > Copy Dex code for embedding in the com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl "_bytecode" field which actually triggers the arbitrary Java code execution on the receiver side application.
+
+2. Finally, "com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl" is available in OpenJDK but not available in Android Framework which becomes blocker for performing Deserialization in receiver application which will throw ClassNotFoundException. This will success only assuming that Xalan jar is included by the developer in the application which has very low chance of occurance.
+
+Added the above 2 points for someone who can start from this points or to save time who looks to port the other exploit POC for Android.
+
 ## Contribution
 
 This app is missing more working payloads to test with. Help in porting more payloads from ysoserial or adding new ones is welcome.
